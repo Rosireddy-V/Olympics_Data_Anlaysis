@@ -12,6 +12,7 @@ nbformat = "*"
 seaborn = "*"
 matplotlib = "*"
 scipy = "*"
+importlib-resources = "*"
 
 [dev-packages]
 ipykernel = "*"
